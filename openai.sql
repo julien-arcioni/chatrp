@@ -149,7 +149,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `nom`, `prenom`, `pwd`, `mail`) VALUES
-(59, 'arcioni', 'julien', 'demo1234', 'test@test.fr');
+(59, 'ar', 'julien', 'demo1234', 'test@test.fr');
 
 --
 -- Indexes for dumped tables
